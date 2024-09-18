@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zaveio/static/css/main.cdd393c0.css",
+    "main.js": "/zaveio/static/js/main.a3ca7b84.js",
+    "index.html": "/zaveio/index.html",
+    "main.cdd393c0.css.map": "/zaveio/static/css/main.cdd393c0.css.map",
+    "main.a3ca7b84.js.map": "/zaveio/static/js/main.a3ca7b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd393c0.css",
+    "static/js/main.a3ca7b84.js"
+  ]
+}
